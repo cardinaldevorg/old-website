@@ -1,7 +1,7 @@
 module.exports = {
   	siteMetadata: {
     	title: "Techfluent",
-		logo: "./images/techfluentlogo1.png",
+			logo: "./images/techfluentlogo1.png",
   	},
   	plugins: [
 		`gatsby-plugin-image`,
