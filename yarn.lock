@@ -1068,7 +1068,7 @@
     ignore "^4.0.6"
     import-fresh "^3.2.1"
     js-yaml "^3.13.1"
-    minimatch "^3.0.4"
+    minimatch "^3.0.5"
     strip-json-comments "^3.1.1"
 
 "@gatsbyjs/parcel-namer-relative-to-cwd@1.9.0":
@@ -1275,7 +1275,7 @@
   dependencies:
     "@humanwhocodes/object-schema" "^1.2.0"
     debug "^4.1.1"
-    minimatch "^3.0.4"
+    minimatch "^3.0.5"
 
 "@humanwhocodes/object-schema@^1.2.0":
   version "1.2.1"
@@ -4588,7 +4588,7 @@ eslint@^7.32.0:
     json-stable-stringify-without-jsonify "^1.0.1"
     levn "^0.4.1"
     lodash.merge "^4.6.2"
-    minimatch "^3.0.4"
+    minimatch "^3.0.5"
     natural-compare "^1.4.0"
     optionator "^0.9.1"
     progress "^2.0.0"
@@ -5083,7 +5083,7 @@ fork-ts-checker-webpack-plugin@^6.5.0:
     fs-extra "^9.0.0"
     glob "^7.1.6"
     memfs "^3.1.2"
-    minimatch "^3.0.4"
+    minimatch "^3.0.5"
     schema-utils "2.7.0"
     semver "^7.3.2"
     tapable "^1.0.0"
@@ -8381,7 +8381,7 @@ package-json@^6.3.0:
   resolved "https://registry.yarnpkg.com/package-json/-/package-json-6.5.0.tgz#6feedaca35e75725876d0b0e64974697fed145b0"
   integrity sha512-k3bdm2n25tkyxcjSKzB5x8kfVxlMdgsbPr0GkZcwHsLpba6cBjqCt1KlcChKEvxHIcTB1FVMuwoijZ26xex5MQ==
   dependencies:
-    got "^9.6.0"
+    got "^11.8.5"
     registry-auth-token "^4.0.0"
     registry-url "^5.0.0"
     semver "^6.2.0"
